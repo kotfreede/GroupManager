@@ -39,7 +39,7 @@ any report need to request [ANY REPORT](t.me/KOT_REPORS) request here.
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by clicking [here](http://t.me/tg_KOT_MANAGERBOT?startgroup=true).
+ Add me to a group by clicking [here](http://t.me/KOT_MANAGERBOT?startgroup=true).
 """
 
 

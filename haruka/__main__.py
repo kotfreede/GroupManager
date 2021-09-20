@@ -35,11 +35,11 @@ BOTS CHANEL  [bots channel](t.me/KOT_BOTS) join here.
 
 SCORCE CODE [SCORCE CODE](t.me/KOT_FREE_DE_LA_HOYA_OFD_YT)
 
-Watch [video tutorial](https://www.youtube.com/watch?v=gXXFpTAk6Vo&feature=youtu.be) on deploying me.
+any report need to request [ANY REPORT](t.me/KOT_REPORS) request here.
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
+ Add me to a group by clicking [here](http://t.me/tg_KOT_MANAGERBOT?startgroup=true).
 """
 
 
